@@ -1,0 +1,15 @@
+D:\LearningCode\2ToNumber\bin\Debug\net7.0\2ToNumber.exe
+D:\LearningCode\2ToNumber\bin\Debug\net7.0\2ToNumber.deps.json
+D:\LearningCode\2ToNumber\bin\Debug\net7.0\2ToNumber.runtimeconfig.json
+D:\LearningCode\2ToNumber\bin\Debug\net7.0\2ToNumber.dll
+D:\LearningCode\2ToNumber\bin\Debug\net7.0\2ToNumber.pdb
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.csproj.AssemblyReference.cache
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.AssemblyInfoInputs.cache
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.AssemblyInfo.cs
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.csproj.CoreCompileInputs.cache
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.dll
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\refint\2ToNumber.dll
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.pdb
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\2ToNumber.genruntimeconfig.cache
+D:\LearningCode\2ToNumber\obj\Debug\net7.0\ref\2ToNumber.dll
